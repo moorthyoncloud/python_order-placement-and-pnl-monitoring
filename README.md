@@ -2,6 +2,8 @@
 
 This set of code along with the excel sheet can be used to place any type of future/option trading strategies that might involve multiple buy and sell legs such as IronFly, Batman etc.,.
 
+This is entirely built using GenAI.
+
 This repo consists of 3 python code with the below functions :
 
 - **securityid.py** To fetch security id from the broker
